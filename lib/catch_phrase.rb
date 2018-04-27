@@ -1,5 +1,3 @@
-
-phrase = gets.chomp
 def catch_phrase(phrase)
   puts phrase
 end
